@@ -1,0 +1,14 @@
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/bin/Debug/net9.0/Knihovna
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/bin/Debug/net9.0/Knihovna.deps.json
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/bin/Debug/net9.0/Knihovna.runtimeconfig.json
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/bin/Debug/net9.0/Knihovna.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/bin/Debug/net9.0/Knihovna.pdb
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.AssemblyInfoInputs.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.AssemblyInfo.cs
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.csproj.CoreCompileInputs.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/refint/Knihovna.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.pdb
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.genruntimeconfig.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/ref/Knihovna.dll

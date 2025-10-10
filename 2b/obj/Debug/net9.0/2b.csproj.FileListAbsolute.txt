@@ -1,0 +1,14 @@
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/bin/Debug/net9.0/2b
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/bin/Debug/net9.0/2b.deps.json
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/bin/Debug/net9.0/2b.runtimeconfig.json
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/bin/Debug/net9.0/2b.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/bin/Debug/net9.0/2b.pdb
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.AssemblyInfoInputs.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.AssemblyInfo.cs
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.csproj.CoreCompileInputs.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/refint/2b.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.pdb
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/2b.genruntimeconfig.cache
+/Users/martinzeman/Documents/Skola/Alda/2b/2b/obj/Debug/net9.0/ref/2b.dll
