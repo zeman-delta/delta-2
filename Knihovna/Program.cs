@@ -78,18 +78,6 @@ class Program
                     VypisovacInformaci.VypisInformaci(knihovna);
                     break;
                 
-                case "9":
-                    Console.WriteLine("ahoj.");
-                    break;
-                
-                case "10":
-                    Console.WriteLine(user is Administrator);
-                    break;
-                
-                case "11":
-                    Console.WriteLine("nazdar");
-                    break;
-                
                 default:
                     Console.WriteLine("Neplatná volba.");
                     break;
