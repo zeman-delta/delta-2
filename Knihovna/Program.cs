@@ -72,6 +72,10 @@ class Program
                 case "7":
                     VypisovacInformaci.VypisInformaci(user);
                     break;
+                
+                case "8":
+                    VypisovacInformaci.VypisInformaci(knihovna);
+                    break;
 
                 default:
                     Console.WriteLine("Neplatná volba.");

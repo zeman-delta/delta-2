@@ -1,0 +1,7 @@
+/2b.sln
+
+# Ignore all obj directories in the project
+**/obj/
+
+# Ignore all bin directories in the project
+**/bin/

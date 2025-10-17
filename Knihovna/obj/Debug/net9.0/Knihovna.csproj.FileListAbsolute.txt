@@ -12,3 +12,4 @@
 /Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.pdb
 /Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.genruntimeconfig.cache
 /Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/ref/Knihovna.dll
+/Users/martinzeman/Documents/Skola/Alda/2b/Knihovna/obj/Debug/net9.0/Knihovna.sourcelink.json

@@ -23,7 +23,7 @@ public class User: IVypisovatelny
     
     public string VratInformace()
     {
-        return $"{Name} | {Nickname}";
+        return $"👤 name: {Name} | nickname: {Nickname}";
     }
     
 }

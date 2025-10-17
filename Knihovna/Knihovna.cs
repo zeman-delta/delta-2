@@ -1,6 +1,6 @@
 namespace Knihovna;
 
-public class Knihovna
+public class Knihovna: IVypisovatelny
 {
     public string Nazev { get; set; }
     public List<Kniha> Knihy { get;} = new List<Kniha>();
@@ -68,5 +68,11 @@ public class Knihovna
                 VypisovacInformaci.VypisInformaci(kniha);
             }
         }
+    }
+
+
+    public string VratInformace()
+    {
+        return $"📚 {Nazev}";
     }
 }
