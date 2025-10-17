@@ -86,6 +86,10 @@ class Program
                     Console.WriteLine(user is Administrator);
                     break;
                 
+                case "11":
+                    Console.WriteLine("nazdar");
+                    break;
+                
                 default:
                     Console.WriteLine("Neplatná volba.");
                     break;
