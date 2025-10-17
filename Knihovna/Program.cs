@@ -78,6 +78,10 @@ class Program
                     VypisovacInformaci.VypisInformaci(knihovna);
                     break;
                 
+                case "9":
+                    Console.WriteLine("Ahoj!");
+                    break;
+                
                 default:
                     Console.WriteLine("Neplatná volba.");
                     break;
