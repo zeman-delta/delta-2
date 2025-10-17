@@ -8,6 +8,7 @@ class Program
         
         knihovna.Users.Add(new User("Karel", "admin", "admin"));
         knihovna.Users.Add(new User("user", "user", "user"));
+        knihovna.Users.Add(new Administrator("admin", "admin", "admin1"));  
         
         IAuth auth = new DebugAuth();
 
@@ -80,7 +81,11 @@ class Program
                 case "9":
                     Console.WriteLine("ahoj.");
                     break;
-
+                
+                case "10":
+                    Console.WriteLine(user is Administrator);
+                    break;
+                
                 default:
                     Console.WriteLine("Neplatná volba.");
                     break;
