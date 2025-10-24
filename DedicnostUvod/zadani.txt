@@ -1,0 +1,30 @@
+1)
+    Vytvoř třídu Osoba, která má vlastnosti Jmeno a metodu představ se.
+    Od ní odvoď třídu Student, která má navíc vlastnost Skola a metodu studuj
+
+2)
+    Naprogramuj třídu Vozidlo s metodou Jizda(). 
+      (vozidlo jede)
+    Od ní odvoď třídy Auto a Kolo, které metodu přepíšou. 
+      (auto jede po silnici...)
+    Vytvoř pole různých vozidel a projdi ho cyklem, aby se ukázal polymorfismus.
+
+3)
+    Vytvoř třídu Zamestnanec s vlastnostmi Jmeno a Plat.
+      tyto vlastnosti nastav přes konstruktor.
+    Od ní odvoď třídu Manazer, která má navíc Bonus.
+    Využij volání konstruktoru rodiče + nastav i bonus.
+
+4)
+    Naprogramuj třídu Postava s vlastnosti sila utoku a metodou Utoc().
+    Od ní odvoď třídy Bojovnik a Mag. Každá má vlastní styl útoku.
+     (mag má navic manu a sila utoku je mana + sila, bojovnik je sila * 2)
+
+5)
+    Vytvoř abstraktní třídu Tvar, která má abstraktní metodu VypocitejObsah().
+    Od ní odvoď třídy Kruh, Obdelnik, Trojúhelník, které metodu implementují.
+
+
+
+
+

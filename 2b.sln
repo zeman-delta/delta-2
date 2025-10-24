@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slovnik", "Slovnik\Slovnik.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knihovna", "Knihovna\Knihovna.csproj", "{45F3EA88-276C-46AF-BE45-1F925E972AF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DedicnostUvod", "DedicnostUvod\DedicnostUvod.csproj", "{BF81FA15-134D-4174-8A45-D61402159C96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BF81FA15-134D-4174-8A45-D61402159C97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,12 @@ Global
 		{45F3EA88-276C-46AF-BE45-1F925E972AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45F3EA88-276C-46AF-BE45-1F925E972AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45F3EA88-276C-46AF-BE45-1F925E972AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF81FA15-134D-4174-8A45-D61402159C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

@@ -81,11 +81,11 @@ class Program
                 case "9":
                     Console.WriteLine("Ahoj!");
                     break;
-                
+
                 case "10":
                     Console.WriteLine(user is Administrator);
                     break;
-                
+
                 default:
                     Console.WriteLine("Neplatná volba.");
                     break;
